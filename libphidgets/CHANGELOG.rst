@@ -2,6 +2,21 @@
 Changelog for package libphidgets
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.12 (2018-01-07)
+-------------------
+* Merge pull request `#92 <https://github.com/ipa320/cob_extern/issues/92>`_ from ipa320/indigo_release_candidate
+  Indigo release candidate
+* Contributors: Felix Messmer
+
+0.6.11 (2017-07-17)
+-------------------
+* fix libphidgets download url
+* fix include_dirs in cmake_extras
+* use EXPORTED_TARGETS
+* final consistency
+* migrated libphidgets to catkin-native wrapping
+* Contributors: Matthias Gruhler, ipa-fxm
+
 0.6.10 (2016-12-08)
 -------------------
 * manually fix changelogs
