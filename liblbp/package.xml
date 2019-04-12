@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+	<name>liblbp</name>
+	<version>1.0.1</version>
+	<description>
+		This package wraps the external c++ lbp library (https://github.com/carolinepacheco/lbplibrary) in a catkin package, so other packages can use it. 
+	</description>
+
+	<url type="website">https://github.com/carolinepacheco/lbplibrary</url>
+	<author email="florian.jordan@ipa.fraunhofer.de">Florian Jordan</author>
+	<maintainer email="florian.jordan@ipa.fraunhofer.de">Florian Jordan</maintainer>
+	<license>MIT</license>
+
+	<buildtool_depend>catkin</buildtool_depend>
+
+</package>
